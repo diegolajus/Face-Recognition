@@ -38,14 +38,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 # Resources
 
+## Tachyons
+
 ```js
 npm install tachyons
 ```
+## Tilt 
 
 ```js
 npm install --save react-tilt
 ```
+## CSS patern Gallery
 
-https://projects.verou.me/css3patterns/ 
+- [Gallery](https://projects.verou.me/css3patterns/ )
 
-"# Face-Recognition-App" 
+## Github Buttons
+
+- [Buttons](https://buttons.github.io/)
+
+- [Docs](https://github.com/ntkme/react-github-btn)
