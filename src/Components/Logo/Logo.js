@@ -19,9 +19,6 @@ const Logo = () =>{
             <ul>
               <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App/fork" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">Fork</GitHubButton>
             </ul>
-            <ul>
-              <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App/discussions" data-icon="octicon-comment-discussion" aria-label="Discuss ntkme/github-buttons on GitHub">Discuss</GitHubButton>
-            </ul>
             
             <ul>
               <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App/issues" data-icon="octicon-issue-opened" aria-label="Issue ntkme/github-buttons on GitHub">Issue</GitHubButton>
