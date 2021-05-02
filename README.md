@@ -58,7 +58,7 @@ npm install --save react-tilt
 
 - [Docs](https://github.com/ntkme/react-github-btn)
 
-## Left to do
+# Left to do
 
 -  Detect button error when input is empty
 -  mediaquery for Examples Component
