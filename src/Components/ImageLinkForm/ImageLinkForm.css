@@ -1,0 +1,33 @@
+.form{
+    background:
+    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+    
+}
+
+.bg-dls{
+    background: linear-gradient(-45deg, #710cd0,  #5b23c9,#5E53F0,#5C6BFC);
+    background-size: 150% 150%; /*Agranda el background para que haya espacio para movimiento*/ 
+    animation: movement 2s ease-in-out infinite;
+}
+.bg-dls:hover{
+    animation-play-state: paused;
+}
+
+@keyframes movement{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
