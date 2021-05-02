@@ -10,3 +10,36 @@
     background-size: 20px 20px;
 
 }
+
+.git-container{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 3rem;
+}
+.git-container ul{
+    transform: scale(1.30);
+    display:inline-block;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+/*__________________  */
+.animation-fadein{
+    animation: logo-load 2000ms ;
+}
+
+@keyframes logo-load {
+    0% {
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}

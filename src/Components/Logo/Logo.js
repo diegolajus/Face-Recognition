@@ -2,11 +2,32 @@ import React from "react"
 import Tilt from 'react-tilt'
 import logo from "./icon.png"
 import "./Logo.css"
+import GitHubButton from 'react-github-btn'
+
+
 
 
 const Logo = () =>{
     return (
-        <div className=" mt4 center flex-column ">
+      
+        <div className=" mt4 center flex-column animation-fadein ">
+          
+            <div className="git-container">
+            <ul>
+              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished" data-icon="octicon-star" aria-label="Star ntkme/github-buttons on GitHub">Star</GitHubButton>
+            </ul>
+            <ul>
+              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished/fork" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">Fork</GitHubButton>
+            </ul>
+            <ul>
+              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished/discussions" data-icon="octicon-comment-discussion" aria-label="Discuss ntkme/github-buttons on GitHub">Discuss</GitHubButton>
+            </ul>
+            
+            <ul>
+              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished/issues" data-icon="octicon-issue-opened" aria-label="Issue ntkme/github-buttons on GitHub">Issue</GitHubButton>
+            </ul>
+            </div>
+            
             <p className="f3 white">
                 {"This Bellboy will detect faces in your pictures. Try it!"}
             </p>

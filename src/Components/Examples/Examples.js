@@ -8,7 +8,7 @@ import Tilt from 'react-tilt'
 
 const Example = ({insertImage}) =>{
     return (
-    <div className="container">
+    <div className="container animation">
         
         <div className="list" >        
             <Tilt>

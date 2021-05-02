@@ -7,6 +7,7 @@ import Examples from  "./Components/Examples/Examples.js"
 import Clarifai from 'clarifai';
 import Particles from 'react-particles-js';
 
+
 const paraparticles = {
 
 	particles:{

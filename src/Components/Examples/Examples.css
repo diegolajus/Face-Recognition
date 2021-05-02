@@ -35,3 +35,16 @@ grid-gap: 1rem; */
 
 /* _______________________________________________________ */
 
+
+.animation {
+    animation: form-load 2000ms 
+}
+
+@keyframes form-load {
+    0% {
+        transform: translateX(-200%)
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
