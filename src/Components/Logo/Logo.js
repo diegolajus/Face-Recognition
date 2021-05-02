@@ -14,17 +14,17 @@ const Logo = () =>{
           
             <div className="git-container">
             <ul>
-              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished" data-icon="octicon-star" aria-label="Star ntkme/github-buttons on GitHub">Star</GitHubButton>
+              <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App" data-icon="octicon-star" aria-label="Star ntkme/github-buttons on GitHub">Star</GitHubButton>
             </ul>
             <ul>
-              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished/fork" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">Fork</GitHubButton>
+              <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App/fork" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">Fork</GitHubButton>
             </ul>
             <ul>
-              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished/discussions" data-icon="octicon-comment-discussion" aria-label="Discuss ntkme/github-buttons on GitHub">Discuss</GitHubButton>
+              <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App/discussions" data-icon="octicon-comment-discussion" aria-label="Discuss ntkme/github-buttons on GitHub">Discuss</GitHubButton>
             </ul>
             
             <ul>
-              <GitHubButton href="https://github.com/diegolajus/Personal-Portfolio-unfinished/issues" data-icon="octicon-issue-opened" aria-label="Issue ntkme/github-buttons on GitHub">Issue</GitHubButton>
+              <GitHubButton href="https://github.com/diegolajus/Face-Recognition-React-App/issues" data-icon="octicon-issue-opened" aria-label="Issue ntkme/github-buttons on GitHub">Issue</GitHubButton>
             </ul>
             </div>
             
