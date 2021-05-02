@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -57,3 +57,8 @@ npm install --save react-tilt
 - [Buttons](https://buttons.github.io/)
 
 - [Docs](https://github.com/ntkme/react-github-btn)
+
+## Left to do
+
+-  Detect button error when input is empty
+-  mediaquery for Examples Component
